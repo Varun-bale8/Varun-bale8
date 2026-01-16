@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 Currently working on: AI/ML projects using Python, NLP, Deep Learning, and LLMs<br>👯 Open to collaborate on: Applied ML, NLP, and real-world AI solutions<br>🤝 Looking for help with: Model deployment, scalability, and production best practices<br>🌱 Currently learning: Advanced ML and end-to-end AI system design<br>💬 Ask me about: Python, Machine Learning, Flask/FastAPI, data analysis<br>⚡ Fun fact: I enjoy turning complex AI ideas into simple, working products 🚀
+> Currently working on: AI/ML projects using Python, NLP, Deep Learning, and LLMs<br> > Open to collaborate on: Applied ML, NLP, and real-world AI solutions<br> > Looking for help with: Model deployment, scalability, and production best practices<br> > Currently learning: Advanced ML and end-to-end AI system design<br>💬 Ask me about: Python, Machine Learning, Flask/FastAPI, data analysis<br> >  Fun fact: I enjoy turning complex AI ideas into simple, working products 🚀
 
 
 ## 🌐 Socials:
